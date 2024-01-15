@@ -121,3 +121,18 @@ BIG O (n^2)
 
 - 작은 수를 제외한다
 
+
+### O(n!)
+
+- Factorial
+
+- expensive
+
+
+## What causes Space Complexity?
+
+- Variables
+- Data Structures
+- Function call
+- Allocations
+
